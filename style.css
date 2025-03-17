@@ -1,0 +1,30 @@
+.headclass{
+    background-color: blue;
+    color: white;
+    text-align: center;
+
+}
+a{
+    color: white;
+    
+}
+.myclass{
+     text-align: center;
+}
+h2{
+    color: blue;
+
+}
+.button{
+    background-color: blue;
+    color: white;
+    size: 60;
+    
+}
+input{
+    padding: 5px;
+}
+img{
+    margin: 20px;
+    border-radius: 15px;
+}
